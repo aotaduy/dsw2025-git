@@ -4,6 +4,3 @@ Ejercicio git
 
 Primeros cambios en el archivo 
 
-esto es una prueba
-
-
