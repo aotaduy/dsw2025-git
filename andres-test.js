@@ -7,6 +7,7 @@ for (let i = 0; i < 5; i++) {
 }
 
 // Logs all numbers from 0 to 4
-console.log("Hello, world!"); cambios de joa
+console.log("Hello, world!"); //cambios de joa
 console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal");
 console.log("god");
+console.log("hola mundo");
